@@ -8,3 +8,6 @@ voice call
 video call
 dark mode
 emojies
+
+
+add new features if necessary to compilte the 2024's market
