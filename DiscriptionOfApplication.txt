@@ -1,0 +1,10 @@
+Here is the basic discription of entities do create for my project
+chat support 
+hotel booking system
+flight reservation system
+transaction managment system
+user helpline
+voice call
+video call
+dark mode
+emojies
